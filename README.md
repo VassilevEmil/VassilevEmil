@@ -5,7 +5,7 @@
 - 📫 How to reach me: vassilevemil33@gmail.com
 
 
-- Currently working on Web Application project. The technologies we use are Java, C# and Postgres. The frameworks are .Net, EntityFramework, SpringBoot and gRPC. The project will be visible once it is fully developed and deployed which would be in the beginning of June. 
+- Currently doing an internship as a blockchain developer. 
 
 
 <!---
