@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VassilevEmil
 - 👀 I’m interested in blockchain applications
-- 🌱 I’m currently learning Java and C# Web services and Blockchain development
+- 🌱 I’m currently learning Blockchain and Android development
 - 💞️ I’m looking to collaborate on Web3 projects
 - 📫 How to reach me: vassilevemil33@gmail.com
 
