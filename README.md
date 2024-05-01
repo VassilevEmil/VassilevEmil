@@ -6,7 +6,7 @@
 
 
 - Currently working on my bachelor thesys. It is International Medical Record System IMRS aiming to fascilitate the medical record transfer between countries
-- in a transparent and immutable way, utilising Polygon network. 
+
 
 
 <!---
